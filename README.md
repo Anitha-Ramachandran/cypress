@@ -14,8 +14,10 @@ The  Test Automation Solution framework that build to work on any application ju
     - commands.ts
     - index.ts
   - utils
-    - yourUtility.ts
-    - ...
+    - baseObject.ts
+    - assertion.ts
+    - LogMessageFormat.ts
+    - navigation.ts
   - pages
     - yourPageObject.ts
     - ...
